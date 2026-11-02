@@ -25,7 +25,7 @@
 
 ## 🧩 项目 · Projects
 
-从知识服务到创作工具，把产品想法变成可以查看和体验的作品。这里收录了我的 **5 个项目**，以及本页的维护仓库。
+从知识服务到创作工具，把产品想法变成可以查看和体验的作品。这里收录了我的 **4 个项目**，以及本页的维护仓库。
 
 ### 🧠 [知枢 · 企业知识中台](https://github.com/tophung48162-cell/enterprise-rag-hub)
 
@@ -66,16 +66,6 @@
 
 <sub>HTML · JavaScript · 3D 场景 · 粒子交互</sub><br>
 [在线体验 ↗](https://tophung48162-cell.github.io/keep-motion/) · [查看项目 →](https://github.com/tophung48162-cell/keep-motion)
-
-### 🌐 [商棋 · 个人网站](https://github.com/tophung48162-cell/tophung48162-cell.github.io)
-
-用白色画廊式页面展示个人介绍、AI 产品关注方向和思考手记。关注清晰的内容层次、响应式布局和轻量交互。
-
-**实践重点：** 个人信息架构、视觉规范、移动端适配与发布。<br>
-**当前状态：** 已通过 GitHub Pages 发布。
-
-<sub>HTML · CSS · JavaScript · GitHub Pages</sub><br>
-[访问网站 ↗](https://tophung48162-cell.github.io/) · [查看项目 →](https://github.com/tophung48162-cell/tophung48162-cell.github.io)
 
 **🪪 [GitHub 个人主页配置](https://github.com/tophung48162-cell/tophung48162-cell)**<br>
 本页的 README、工作台视觉和项目、文章入口，在这个仓库持续维护。
