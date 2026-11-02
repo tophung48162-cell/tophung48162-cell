@@ -1,23 +1,19 @@
-# Hi, I'm Shang Qi 👋
-
-**商棋 · AI 产品经理**
-
-<a href="https://tophung48162-cell.github.io/">
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-launch-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/portfolio-launch-light.svg" />
-    <img src="assets/portfolio-launch-light.svg" alt="商棋的产品工作台：理解问题，做出原型，写下思考。点击进入个人网站。" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-headline-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/profile-headline-light.svg" />
+    <img src="assets/profile-headline-light.svg" width="600" height="84" alt="AI Product Manager — 商棋，AI 产品经理" />
   </picture>
-</a>
-<p align="center"><sub>点击上方工作台，进入我的个人网站。</sub></p>
-
-我关注 **AI 如何进入真实工作场景**。从一个具体问题出发，理解需求、梳理流程，再把想法做成可以体验的原型。
-
-我也写文章。把模型、知识库和产品实践里的复杂问题，整理成更容易理解的文字。在做产品和写作之间，持续校准自己的判断。
-
-🌐 [个人网站](https://tophung48162-cell.github.io/) · 🧩 [全部项目](#projects) · 🛠 [技能与标签](#skills) · ✍️ [文章与思考](#writing)
-
-`AI 产品经理` `产品研究` `RAG 与知识库` `模型评测` `原型搭建` `技术写作`
+  <p><strong>商棋 / SHANG QI</strong></p>
+  <p>从真实需求出发，把 AI 的可能性变成可用的产品。</p>
+  <p><sub>Exploring AI through research, prototypes and writing.</sub></p>
+  <br/>
+  <p>
+    <a href="#projects"><img src="assets/link-projects.svg" width="152" height="36" alt="Projects · 查看项目" /></a>
+    <a href="#writing"><img src="assets/link-writing.svg" width="134" height="36" alt="Writing · 阅读文章" /></a>
+    <a href="https://tophung48162-cell.github.io/"><img src="assets/link-portfolio.svg" width="146" height="36" alt="Portfolio · 访问个人网站" /></a>
+  </p>
+</div>
 
 ---
 
@@ -68,7 +64,7 @@
 [在线体验 ↗](https://tophung48162-cell.github.io/keep-motion/) · [查看项目 →](https://github.com/tophung48162-cell/keep-motion)
 
 **🪪 [GitHub 个人主页配置](https://github.com/tophung48162-cell/tophung48162-cell)**<br>
-本页的 README、工作台视觉和项目、文章入口，在这个仓库持续维护。
+本页的 README、顶部视觉和项目、文章入口，在这个仓库持续维护。
 
 [浏览全部 6 个公开仓库 →](https://github.com/tophung48162-cell?tab=repositories)
 

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="152" height="36" viewBox="0 0 152 36" role="img" aria-labelledby="title">
+  <title id="title">Projects · 查看项目</title>
+  <path fill="#4b5563" d="M0 4h79v28H0z"/>
+  <path fill="#20c997" d="M79 4h73v28H79z"/>
+  <g font-family="Verdana, 'DejaVu Sans', Arial, sans-serif" font-size="12" text-anchor="middle">
+    <text x="39.5" y="22.5" fill="#fff">Projects</text>
+    <text x="115.5" y="22.5" fill="#073b2e">Explore</text>
+  </g>
+</svg>
