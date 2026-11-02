@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-labelledby="title desc">
+<title id="title">商棋 · 产品工作台</title>
+<desc id="desc">理解问题，做出原型，写下思考。点击图片进入商棋的个人网站。</desc>
+<style>
+.label {font-family: -apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',Arial,sans-serif;}
+.mono {font-family: 'SFMono-Regular',Consolas,'Liberation Mono',monospace;}
+.cursor {animation: blink 1.6s steps(1,end) infinite;}
+@keyframes blink {0%,48% {opacity:1} 49%,100% {opacity:0}}
+@media (prefers-reduced-motion: reduce) {.cursor {animation:none}}
+</style>
+<rect x="1" y="1" width="998" height="358" rx="20" fill="#0d1117" stroke="#30363d"/>
+<path d="M21 1h958a20 20 0 0 1 20 20v35H1V21A20 20 0 0 1 21 1Z" fill="#161b22"/>
+<path d="M1 56h998" stroke="#30363d"/>
+<circle cx="28" cy="28" r="5" fill="#ff7b72"/><circle cx="46" cy="28" r="5" fill="#e3b341"/><circle cx="64" cy="28" r="5" fill="#56d364"/>
+<text class="mono" x="500" y="34" fill="#9da7b3" text-anchor="middle" font-size="15">shangqi / product-workspace</text>
+<text class="mono" x="44" y="104" fill="#9da7b3" font-size="18"><tspan fill="#79b8ff">❯ </tspan>whoami</text>
+<text class="label" x="44" y="163" fill="#f0f6fc" font-size="46" font-weight="600">商棋 <tspan font-size="26" fill="#9da7b3"> / AI 产品经理</tspan></text>
+<text class="label" x="44" y="214" fill="#f0f6fc" font-size="27" font-weight="500">理解问题。做出原型。写下思考。</text>
+<text class="mono" x="44" y="272" fill="#9da7b3" font-size="17"><tspan fill="#79b8ff">❯ </tspan>open portfolio</text>
+<rect class="cursor" x="223" y="257" width="9" height="19" rx="1" fill="#79b8ff"/>
+<rect x="44" y="298" width="221" height="35" rx="17.5" fill="#202e43"/>
+<text class="label" x="154.5" y="321" text-anchor="middle" fill="#79b8ff" font-size="15" font-weight="500">进入我的个人网站 ↗</text>
+<text class="mono" x="956" y="321" text-anchor="end" fill="#9da7b3" font-size="13">PRODUCT / AI / WRITING</text>
+</svg>
