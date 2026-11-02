@@ -1,5 +1,7 @@
 <div align="center">
   <picture>
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/profile-headline-dark.svg" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-headline-light.svg" />
     <source media="(prefers-color-scheme: dark)" srcset="assets/profile-headline-animated-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/profile-headline-animated-light.svg" />
     <img src="assets/profile-headline-animated-light.svg" width="600" height="84" alt="商棋的动态介绍：AI Product Manager · Writer &amp; Maker · SHANG QI" />
