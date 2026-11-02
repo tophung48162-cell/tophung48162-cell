@@ -127,6 +127,3 @@ I write about AI technology and products from a product manager's perspective.
 - Bachelor's degree in Environmental Design
 
   环境设计学士学位
-
-**保持好奇，让想法慢慢成形。**<br>
-[在我的个人网站继续了解 →](https://tophung48162-cell.github.io/)
