@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="84" viewBox="0 0 600 84" role="img" aria-labelledby="title desc">
+  <title id="title">商棋 · AI Product Manager · Writer &amp; Maker</title>
+  <desc id="desc">打字动画循环展示 AI Product Manager、Writer &amp; Maker 和 SHANG QI，每句话逐字出现、停顿后擦除。减少动态效果模式下显示静态职业标题。</desc>
+  <style>
+    .heading { fill: #159a75; font: 700 40px ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace; letter-spacing: -1px; }
+    .animated { display: none; }
+    @media (prefers-reduced-motion: no-preference) {
+      .animated { display: inline; }
+      .static { display: none; }
+    }
+  </style>
+  <text class="heading static" x="300" y="57" text-anchor="middle">AI Product Manager</text>
+  <g class="animated" aria-hidden="true">
+    <defs>
+      <path id="product-path" d="M0,42 h0">
+        <animate id="product" attributeName="d" begin="0s;name.end" dur="3.5s" fill="remove" values="M0,42 h0;M0,42 h600;M0,42 h600;M0,42 h0" keyTimes="0;0.5942857143;0.8514285714;1" />
+      </path>
+      <path id="writer-path" d="M0,42 h0">
+        <animate id="writer" attributeName="d" begin="product.end" dur="3.5s" fill="remove" values="M0,42 h0;M0,42 h600;M0,42 h600;M0,42 h0" keyTimes="0;0.5942857143;0.8514285714;1" />
+      </path>
+      <path id="name-path" d="M0,42 h0">
+        <animate id="name" attributeName="d" begin="writer.end" dur="3.5s" fill="remove" values="M0,42 h0;M0,42 h600;M0,42 h600;M0,42 h0" keyTimes="0;0.5942857143;0.8514285714;1" />
+      </path>
+    </defs>
+    <g class="heading" dominant-baseline="middle" text-anchor="middle">
+      <text x="50%"><textPath xlink:href="#product-path">AI Product Manager</textPath></text>
+      <text x="50%"><textPath xlink:href="#writer-path">Writer &amp; Maker</textPath></text>
+      <text x="50%"><textPath xlink:href="#name-path">SHANG QI</textPath></text>
+    </g>
+  </g>
+</svg>
