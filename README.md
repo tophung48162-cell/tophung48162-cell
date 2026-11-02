@@ -6,8 +6,7 @@
     <source media="(prefers-color-scheme: light)" srcset="assets/profile-headline-animated-light.svg" />
     <img src="assets/profile-headline-animated-light.svg" width="600" height="84" alt="商棋的动态介绍：AI Product Manager · Writer &amp; Maker · SHANG QI" />
   </picture>
-  <p><strong>商棋 / SHANG QI</strong></p>
-  <p>从真实需求出发，把 AI 的可能性变成可用的产品。</p>
+  <h3>从真实需求出发，把 AI 的可能性变成可用的产品。</h3>
   <p><sub>Exploring AI through research, prototypes and writing.</sub></p>
   <br/>
   <p>
