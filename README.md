@@ -107,19 +107,14 @@
 
 <a id="writing"></a>
 
-## ✍️ 文章与思考 · Writing
+## ✍️ Writing ✍️ 写作
 
-从技术机制到产品选择，记录我对 AI 的观察。关注 **开源生态、RAG、模型评测与真实使用体验**。
+I write about AI technology and products from a product manager's perspective.
 
-### [DeepSeek 把模型背后的“发动机”也开源了](https://mp.weixin.qq.com/s/C6J4u0Zc45dgEdhTqjDnWg)
+我从产品经理的视角，记录对 AI 技术与产品的观察。
 
-`AI 技术观察` `开源生态` · 微信公众号<br>
-[阅读原文 ↗](https://mp.weixin.qq.com/s/C6J4u0Zc45dgEdhTqjDnWg)
-
-### [Kimi K3.1 Pro，凭什么杀回第一梯队？](https://mp.weixin.qq.com/s/MJGpV6xZNLiZVNvPDu-00A)
-
-`AI 模型观察` `Kimi` · 微信公众号<br>
-[阅读原文 ↗](https://mp.weixin.qq.com/s/MJGpV6xZNLiZVNvPDu-00A)
+- [DeepSeek 把模型背后的“发动机”也开源了](https://mp.weixin.qq.com/s/C6J4u0Zc45dgEdhTqjDnWg)
+- [Kimi K3.1 Pro，凭什么杀回第一梯队？](https://mp.weixin.qq.com/s/MJGpV6xZNLiZVNvPDu-00A)
 
 ---
 
