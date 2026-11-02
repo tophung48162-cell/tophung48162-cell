@@ -116,6 +116,11 @@
 `AI 技术观察` `开源生态` · 微信公众号<br>
 [阅读原文 ↗](https://mp.weixin.qq.com/s/C6J4u0Zc45dgEdhTqjDnWg)
 
+### [Kimi K3.1 Pro，凭什么杀回第一梯队？](https://mp.weixin.qq.com/s/MJGpV6xZNLiZVNvPDu-00A)
+
+`AI 模型观察` `Kimi` · 微信公众号<br>
+[阅读原文 ↗](https://mp.weixin.qq.com/s/MJGpV6xZNLiZVNvPDu-00A)
+
 ---
 
 ## 关于我 · About
