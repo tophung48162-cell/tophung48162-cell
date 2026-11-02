@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="134" height="36" viewBox="0 0 134 36" role="img" aria-labelledby="title">
+  <title id="title">Writing · 阅读文章</title>
+  <path fill="#4b5563" d="M0 4h76v28H0z"/>
+  <path fill="#ff6b85" d="M76 4h58v28H76z"/>
+  <g font-family="Verdana, 'DejaVu Sans', Arial, sans-serif" font-size="12" text-anchor="middle">
+    <text x="38" y="22.5" fill="#fff">Writing</text>
+    <text x="105" y="22.5" fill="#4a1122">Read</text>
+  </g>
+</svg>
