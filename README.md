@@ -118,11 +118,13 @@ I write about AI technology and products from a product manager's perspective.
 
 ---
 
-## 关于我 · About
+## About 关于
 
-- **职业**：AI 产品经理。
-- **关注**：让技术能力转化为清晰、可用的产品体验。
-- **实践**：做原型、做验证，也把过程中的观察写下来。
+- AI Product Manager　AI 产品经理
+
+- Bachelor's degree in Environmental Design
+
+  环境设计学士学位
 
 **保持好奇，让想法慢慢成形。**<br>
 [在我的个人网站继续了解 →](https://tophung48162-cell.github.io/)
