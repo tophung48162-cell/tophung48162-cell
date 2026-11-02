@@ -107,6 +107,7 @@ I write about AI technology and products from a product manager's perspective.
 - [Kimi K3.1 Pro，凭什么杀回第一梯队？](https://mp.weixin.qq.com/s/MJGpV6xZNLiZVNvPDu-00A)
 - [Anthropic 发布招股书，AI 真的开始赚钱了吗？](https://mp.weixin.qq.com/s/Lx5ih8VMMzRVbA3_fSm4dA)
 - [让 AI 用上你的资料，RAG 是怎么做到的？](https://mp.weixin.qq.com/s/ICHt32TD2SSFs_-rRylugQ)
+- [当 AI 开始替你做选择：Personal Agent 如何理解你，又服务于谁？](https://mp.weixin.qq.com/s/TKu_leT6_XhVCp2r1Y6bMw)
 
 ---
 
