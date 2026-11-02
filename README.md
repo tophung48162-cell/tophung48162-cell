@@ -115,6 +115,8 @@ I write about AI technology and products from a product manager's perspective.
 
 - [DeepSeek 把模型背后的“发动机”也开源了](https://mp.weixin.qq.com/s/C6J4u0Zc45dgEdhTqjDnWg)
 - [Kimi K3.1 Pro，凭什么杀回第一梯队？](https://mp.weixin.qq.com/s/MJGpV6xZNLiZVNvPDu-00A)
+- [Anthropic 发布招股书，AI 真的开始赚钱了吗？](https://mp.weixin.qq.com/s/Lx5ih8VMMzRVbA3_fSm4dA)
+- [让 AI 用上你的资料，RAG 是怎么做到的？](https://mp.weixin.qq.com/s/ICHt32TD2SSFs_-rRylugQ)
 
 ---
 
