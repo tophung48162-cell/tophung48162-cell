@@ -22,7 +22,17 @@
 
 ## 🧩 项目 · Projects
 
-从知识服务到创作工具，把产品想法变成可以查看和体验的作品。这里收录了我的 **4 个项目**，以及本页的维护仓库。
+从知识服务到创作工具，把产品想法变成可以查看和体验的作品。这里收录了我的 **5 个项目**，以及本页的维护仓库。
+
+### 📝 [小事记 · 个人 AI 助理](https://github.com/tophung48162-cell/xiaoshiji)
+
+把日常交代的事情、长期记忆和独立话题放在同一个对话界面中，支持语音输入、待办管理、定时提醒与文案草稿确认。
+
+**实操重点：** 对话驱动的事情管理、长期记忆、独立话题和本地语音输入。<br>
+**当前状态：** 已发布 v1.0.1，包含完整前后端代码；仓库目前为私有，仅获授权的用户可访问。
+
+<sub>FastAPI · JavaScript · DeepSeek · MLX Whisper · SQLite</sub><br>
+[查看项目 →](https://github.com/tophung48162-cell/xiaoshiji)
 
 ### 🧠 [知枢 · 企业知识中台](https://github.com/tophung48162-cell/enterprise-rag-hub)
 
