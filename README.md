@@ -22,7 +22,7 @@
 
 ## 🧩 项目 · Projects
 
-从知识服务到创作工具，把产品想法变成可以查看和体验的作品。这里收录了我的 **5 个项目**，以及本页的维护仓库。
+从知识服务到创作工具，把产品想法变成可以查看和体验的作品。这里收录了我的 **3 个项目**，以及本页的维护仓库。
 
 ### 📝 [小事记 · 个人 AI 助理](https://github.com/tophung48162-cell/xiaoshiji)
 
@@ -53,26 +53,6 @@
 
 <sub>React · TypeScript · Vinext · Cloudflare Workers · D1</sub><br>
 [查看项目 →](https://github.com/tophung48162-cell/lawsuit-staff-admin)
-
-### ✒️ [留白 · 言情写作](https://github.com/tophung48162-cell/liubai-romance)
-
-把中文言情短篇的写作方法整理为可安装的 Skill，配套提示词生成、示例切换与下载页面，让一套创作方法可以反复使用。
-
-**实践重点：** Prompt 设计、Skill 封装与创作流程。<br>
-**当前形态：** 写作 Skill + 静态交互页面；小说生成由支持 Skill 的助手完成。
-
-<sub>HTML · CSS · JavaScript · Codex Skill</sub><br>
-[查看项目 →](https://github.com/tophung48162-cell/liubai-romance)
-
-### 🧊 [Keep · 运动主题交互展示](https://github.com/tophung48162-cell/keep-motion)
-
-用冰屋场景、可点击冰块和粒子字形，探索 3D 场景、滚动叙事与声音交互的组合。
-
-**实践重点：** 视觉表达、交互探索与页面体验。<br>
-**项目性质：** 基于第三方引擎及视觉素材的非商业学习展示。
-
-<sub>HTML · JavaScript · 3D 场景 · 粒子交互</sub><br>
-[在线体验 ↗](https://tophung48162-cell.github.io/keep-motion/) · [查看项目 →](https://github.com/tophung48162-cell/keep-motion)
 
 **🪪 [GitHub 个人主页配置](https://github.com/tophung48162-cell/tophung48162-cell)**<br>
 本页的 README、顶部视觉和项目、文章入口，在这个仓库持续维护。
