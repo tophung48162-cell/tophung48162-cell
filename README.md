@@ -22,7 +22,7 @@
 
 ## 🧩 项目 · Projects
 
-从知识服务到创作工具，把产品想法变成可以查看和体验的作品。这里收录了我的 **4 个项目**，以及本页的维护仓库。
+从知识服务到创作工具，把产品想法变成可以查看和体验的作品。这里收录了我的 **3 个项目**，以及本页的维护仓库。
 
 ### 🌿 [景映成境 · 景观 AIGC 工作台](https://github.com/tophung48162-cell/jingying-chengjing)
 
@@ -53,16 +53,6 @@
 
 <sub>React · TypeScript · FastAPI · LangChain</sub><br>
 [查看项目 →](https://github.com/tophung48162-cell/enterprise-rag-hub)
-
-### 🗂 [诉状工作人员后台](https://github.com/tophung48162-cell/lawsuit-staff-admin)
-
-把案件办理、收退款台账和统计报表放进一个工作台，并适配手机端使用。围绕实际业务流程组织功能与数据。
-
-**实践重点：** 业务需求梳理、状态流转、数据台账与移动端体验。<br>
-**当前形态：** 包含服务端与数据库实现的业务工具。
-
-<sub>React · TypeScript · Vinext · Cloudflare Workers · D1</sub><br>
-[查看项目 →](https://github.com/tophung48162-cell/lawsuit-staff-admin)
 
 **🪪 [GitHub 个人主页配置](https://github.com/tophung48162-cell/tophung48162-cell)**<br>
 本页的 README、顶部视觉和项目、文章入口，在这个仓库持续维护。
