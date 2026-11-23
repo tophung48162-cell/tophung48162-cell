@@ -22,7 +22,17 @@
 
 ## 🧩 项目 · Projects
 
-从知识服务到创作工具，把产品想法变成可以查看和体验的作品。这里收录了我的 **3 个项目**，以及本页的维护仓库。
+从知识服务到创作工具，把产品想法变成可以查看和体验的作品。这里收录了我的 **4 个项目**，以及本页的维护仓库。
+
+### 🌿 [景映成境 · 景观 AIGC 工作台](https://github.com/tophung48162-cell/jingying-chengjing)
+
+面向景观方案表达，将设计需求、意向参考、效果图生成与版本修改串联起来，并支持从选定效果图生成短视频。
+
+**实践重点：** 六类景观场景、提示词与模型调用编排、图像迭代、首帧生视频及试用反馈。<br>
+**当前状态：** 已发布 v0.1.0 MVP 预发布版，包含完整前后端代码；真实图片与短视频链路已验证，页面完整验收和表达准确性仍在优化。仓库为私有，仅获授权的用户可访问。
+
+<sub>Next.js · React · TypeScript · FastAPI · 阿里云百炼 · Docker</sub><br>
+[查看项目 →](https://github.com/tophung48162-cell/jingying-chengjing) · [查看 v0.1.0 Release →](https://github.com/tophung48162-cell/jingying-chengjing/releases/tag/v0.1.0)
 
 ### 📝 [小事记 · 个人 AI 助理](https://github.com/tophung48162-cell/xiaoshiji)
 
