@@ -34,6 +34,16 @@
 <sub>Next.js · React · TypeScript · FastAPI · 阿里云百炼 · Docker</sub><br>
 [查看项目 →](https://github.com/tophung48162-cell/jingying-chengjing) · [查看 v0.1.0 Release →](https://github.com/tophung48162-cell/jingying-chengjing/releases/tag/v0.1.0)
 
+### 📐 [图序 · 景观施工图工作台](https://github.com/tophung48162-cell/tuxu-landscape-workbench)
+
+面向景观园建施工图设计师的本地 AI 工作台：对话式查规范条文（答案强制带出处）、管理大样/材料/说明模板四库、直接上传 DWG 提取文字标注用于图纸校对。所有数据保存在本机，涉密内容发送云端前必须用户确认。
+
+**实践重点：** 单 Agent 循环 + 12 工具的能力编排、DWG 本地转换解析（穿透块/嵌套块/动态块，中文大字体解码）、涉密红线与读写白名单。<br>
+**当前状态：** 已发布 v1.0.0，包含完整前后端代码；DWG 直读链路经真实施工图验证。
+
+<sub>FastAPI · DeepSeek · ezdxf · ODA File Converter · go-cad</sub><br>
+[查看项目 →](https://github.com/tophung48162-cell/tuxu-landscape-workbench) · [查看 v1.0.0 Release →](https://github.com/tophung48162-cell/tuxu-landscape-workbench/releases/tag/v1.0.0)
+
 ### 📝 [小事记 · 个人 AI 助理](https://github.com/tophung48162-cell/xiaoshiji)
 
 把日常交代的事情、长期记忆和独立话题放在同一个对话界面中，支持语音输入、待办管理、定时提醒与文案草稿确认。
